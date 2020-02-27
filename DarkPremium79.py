@@ -1,8 +1,8 @@
 #Mau Apa Lo Kesini Nyet?
 #Lagi Cari Tools Baru Yaa?
-#Kalau Udah Ketemu Lu Recode Eaa
+#Kalau Udah Ketemu TU4NJ4CK Eaa
 #Dasar Gak Tau Malu Lu!
-#Bisanya Recode Script Orang
+#Bisanya TU4NJ4CK Script Orang
 #Hargai Yang Buat
 #Jika Mau Di Hargai Copyright
 import marshal
